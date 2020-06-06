@@ -19,16 +19,7 @@
       Tensorflow-gpu : https://www.tensorflow.org/install/gpu
       
 * Oyunu AMD GPU donanımı üzerinden oynamak için arka uç olarak başka bir kütüphane kullanmanız gereklidir. 
-      
-* Oyunu oynayabileceğiniz GPU 'lar:
 
-1-) Nvidia GTX 10 serisinin tamamı
-2-) Nvidia RTX serisinin tamamı
-3-) Nvidia TITAN serisinin tamamı
-4-) Nvidia TESLA serisinin tamamı
-
-3-) .....
-
-*
+* Ilerki zamanlarda Modelin omurgasını MobileNet olarak değiştirip tüm donanımlar üzerinden oynanabilmesini hedeflemekteyiz.
 
 

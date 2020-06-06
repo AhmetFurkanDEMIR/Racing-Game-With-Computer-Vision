@@ -50,4 +50,8 @@ The depth of representations is of central importance for many visual recognitio
 
 * Arabanın sağa dönmesini sağlamak :
 
+![Screenshot_2020-06-06_14-19-42](https://user-images.githubusercontent.com/54184905/83944469-725d1c00-a80c-11ea-938b-b0924ee9a8e7.png)
+
+* Arabanın sola dönmesini sağlamak :
+
 

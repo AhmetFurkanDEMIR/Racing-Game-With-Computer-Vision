@@ -40,6 +40,10 @@ The depth of representations is of central importance for many visual recognitio
 
 ![gI4zT](https://user-images.githubusercontent.com/54184905/83944404-e814b800-a80b-11ea-9cad-a8607463d35f.png)
 
+# Oyun içi görüntüler
+
+* Arabanın sürülmesi :
+
 
 
 

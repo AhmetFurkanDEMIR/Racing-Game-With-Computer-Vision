@@ -62,3 +62,10 @@ The depth of representations is of central importance for many visual recognitio
 
 ![Screenshot_2020-06-06_14-13-27](https://user-images.githubusercontent.com/54184905/83944508-a3d5e780-a80c-11ea-9d48-803ac8870ee5.png)
 
+# Projeyi inşaa edenler
+
+Ahmet Furkan DEMIR - https://www.linkedin.com/in/1dfurkan/
+
+Omar Mohamed - https://www.linkedin.com/in/omar-mohamed-15b750194/
+
+Bahadır Poroy - https://www.linkedin.com/in/bahad%C4%B1r-poroy-bb1b2912b/

@@ -22,9 +22,13 @@
       
 * Oyunu oynayabileceğiniz GPU 'lar:
 
-1-) Nvidia GTX 1000 serisinin tamamı
+1-) Nvidia GTX 10 serisinin tamamı
 2-) Nvidia RTX serisinin tamamı
+3-) Nvidia TITAN serisinin tamamı
+4-) Nvidia TESLA serisinin tamamı
+
 3-) .....
-      
+
+*
 
 

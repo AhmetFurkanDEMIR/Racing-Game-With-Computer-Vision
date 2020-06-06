@@ -1,5 +1,7 @@
 # Racing Game With Computer Vision
 
+![Screenshot_2020-06-06_15-00-34](https://user-images.githubusercontent.com/54184905/83944510-a46e7e00-a80c-11ea-9c94-ec83573498d9.png)
+
 * El hareketleriyle oynayabileceğiniz yarış oyunu.
 * Modelimizi taş, kağıt, makas veri seti ile eğittik.
 * Nesne tespitini Keras RetinaNet(Omurga olarak ResNet50 kullanıldı) ile yaptık.
@@ -55,7 +57,6 @@ The depth of representations is of central importance for many visual recognitio
 * Arabanın sola dönmesini sağlamak :
 
 ![Screenshot_2020-06-06_14-12-25](https://user-images.githubusercontent.com/54184905/83944505-a2a4ba80-a80c-11ea-8233-a171db0bb86e.png)
-![Screenshot_2020-06-06_14-13-27](https://user-images.githubusercontent.com/54184905/83944508-a3d5e780-a80c-11ea-9d48-803ac8870ee5.png)
-![Screenshot_2020-06-06_15-00-34](https://user-images.githubusercontent.com/54184905/83944510-a46e7e00-a80c-11ea-9c94-ec83573498d9.png)
 
+![Screenshot_2020-06-06_14-13-27](https://user-images.githubusercontent.com/54184905/83944508-a3d5e780-a80c-11ea-9d48-803ac8870ee5.png)
 

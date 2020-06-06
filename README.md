@@ -1,3 +1,8 @@
+![licence](https://img.shields.io/badge/Keras-V2.3.1-red)
+![licencee](https://img.shields.io/badge/Tensorflow-V2.0-yellow)
+![licence](https://img.shields.io/badge/demir-ai-blueviolet)
+![licence](https://img.shields.io/badge/Ahmet%20Furkan-DEM%C4%B0R-blue)
+
 # Racing Game With Computer Vision
 
 ![Screenshot_2020-06-06_15-00-34](https://user-images.githubusercontent.com/54184905/83944510-a46e7e00-a80c-11ea-9c94-ec83573498d9.png)

@@ -42,12 +42,12 @@ The depth of representations is of central importance for many visual recognitio
 
 # Oyun içi görüntüler
 
-* Arabanın sürülmesi :
+* Arabanın ilerlemesini sağlamak :
 
 ![Screenshot_2020-06-06_14-07-07](https://user-images.githubusercontent.com/54184905/83944433-26aa7280-a80c-11ea-9472-bf6f3e085315.png)
 
 ![Screenshot_2020-06-06_14-14-54](https://user-images.githubusercontent.com/54184905/83944435-27db9f80-a80c-11ea-9445-deb945412e29.png)
 
-
+* Arabanın sağa dönmesini sağlamak :
 
 

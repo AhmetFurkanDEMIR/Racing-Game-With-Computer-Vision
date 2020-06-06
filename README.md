@@ -4,11 +4,16 @@
 * Modelimizi taş, kağıt, makas veri seti ile eğittik.
 * Nesne tespitini Keras RetinaNet(Omurga olarak ResNet50 kullanıldı) ile yaptık.
 
-# Oyun Hakkında (Backend Detay)
+# Oynanış Mantığı
+
+* Oyunu el hareketleriniz ile yönlendirmektesiniz.
+* Nesnelere çarpmadan oynamanız gerekli, herhangi bir nesneye çarparsanız oyunu kaybedersiniz.
+
+# Oyun Hakkında - Backend Detay
 
 * Oyun sadece Nvidia GPU donanımı üzerinden oynanabilmektedir.
 
-* Keras ara uç motorda Tensorflow 'u kullanmaktadır.Bunun için Tensorflow-gpu 'yu yüklemeniz gereklidir.
+* Keras ara uç motorda Tensorflow 'u kullanmaktadır. Bunun için Tensorflow-gpu 'yu yüklemeniz gereklidir.
        
       Tensorflow-gpu : https://www.tensorflow.org/install/gpu
 
@@ -21,5 +26,8 @@
 * Oyunu AMD GPU donanımı üzerinden oynamak için arka uç olarak başka bir kütüphane kullanmanız gereklidir. 
 
 * Ilerki zamanlarda Modelin omurgasını MobileNet olarak değiştirip tüm donanımlar üzerinden oynanabilmesini hedeflemekteyiz.
+
+* Keras RetinaNet model eğitiminde omurga olarak ResNet50 'yi kullandık
+
 
 

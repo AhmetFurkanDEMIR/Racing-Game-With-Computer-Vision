@@ -8,15 +8,15 @@
 
 * Oyun sadece Nvidia GPU donanımı üzerinden oynanabilmektedir.
 
+* Keras ara uç motorda Tensorflow 'u kullanmaktadır.Bunun için Tensorflow-gpu 'yu yüklemeniz gereklidir.
+       
+      Tensorflow-gpu : https://www.tensorflow.org/install/gpu
+
 * Oyunu oynayabilmeniz için Nvidia GPU Driver, CUDA V10.1 ve cuDNN V7.6.5 yazılımlarını yüklemeniz gerekli
                                        
       Nvidia GPU Driver : https://www.nvidia.com.tr/drivers
       CUDA V10.1 : https://developer.nvidia.com/cuda-downloads
       cuDNN V7.6.5 : https://developer.nvidia.com/cudnn
-              
-* Keras ara uç motorda Tensorflow 'u kullanmaktadır.Bunun için Tensorflow-gpu 'yu yüklemeniz gereklidir.
-       
-      Tensorflow-gpu : https://www.tensorflow.org/install/gpu
       
 * Oyunu AMD GPU donanımı üzerinden oynamak için arka uç olarak başka bir kütüphane kullanmanız gereklidir. 
 

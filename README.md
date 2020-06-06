@@ -38,7 +38,8 @@ An ensemble of these residual nets achieves 3.57% error on the ImageNet test set
 
 The depth of representations is of central importance for many visual recognition tasks. Solely due to our extremely deep representations, we obtain a 28% relative improvement on the COCO object detection dataset. Deep residual nets are foundations of our submissions to ILSVRC & COCO 2015 competitions, where we also won the 1st places on the tasks of ImageNet detection, ImageNet localization, COCO detection, and COCO segmentation.
 
-![0*SQt_5sNnrQl59hRa](https://user-images.githubusercontent.com/54184905/83944380-bef42780-a80b-11ea-99fe-274019479fa0.png)
+![gI4zT](https://user-images.githubusercontent.com/54184905/83944404-e814b800-a80b-11ea-9cad-a8607463d35f.png)
+
 
 
 

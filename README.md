@@ -15,6 +15,8 @@
 
 # Oyun Hakkında - Backend Detay
 
+* Modeli NVIDIA Tesla P100 GPU (Google Colab Pro) üzerinden eğittik.
+
 * Oyun sadece Nvidia GPU donanımı üzerinden oynanabilmektedir.
 
 * Keras ara uç motorda Tensorflow 'u kullanmaktadır. Bunun için Tensorflow-gpu 'yu yüklemeniz gereklidir.

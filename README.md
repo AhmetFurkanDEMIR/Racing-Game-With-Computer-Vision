@@ -69,3 +69,5 @@ Ahmet Furkan DEMIR - https://www.linkedin.com/in/1dfurkan/
 Omar Mohamed - https://www.linkedin.com/in/omar-mohamed-15b750194/
 
 Bahadır Poroy - https://www.linkedin.com/in/bahad%C4%B1r-poroy-bb1b2912b/
+
+Emre Aydın - https://www.linkedin.com/in/emreayddin/

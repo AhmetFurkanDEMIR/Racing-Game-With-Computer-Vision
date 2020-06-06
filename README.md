@@ -1,6 +1,6 @@
 # Racing Game With Computer Vision
 
-* El hareketleriyle oynayabileceğimiz yarış oyunu.
+* El hareketleriyle oynayabileceğiniz yarış oyunu.
 * Modelimizi taş, kağıt, makas veri seti ile eğittik.
 * Nesne tespitini Keras RetinaNet(Omurga olarak ResNet50 kullanıldı) ile yaptık.
 
@@ -17,6 +17,14 @@
 * Keras ara uç motorda Tensorflow 'u kullanmaktadır.Bunun için Tensorflow-gpu 'yu yüklemeniz gereklidir.
        
       Tensorflow-gpu : https://www.tensorflow.org/install/gpu
+      
+* Oyunu AMD GPU donanımı üzerinden oynamak için arka uç olarak başka bir kütüphane kullanmanız gereklidir. 
+      
+* Oyunu oynayabileceğiniz GPU 'lar:
+
+1-) Nvidia GTX 1000 serisinin tamamı
+2-) Nvidia RTX serisinin tamamı
+3-) .....
       
 
 

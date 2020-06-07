@@ -8,6 +8,9 @@
 
 * El hareketleriyle oynayabileceğiniz yarış oyunu.
 * Modelimizi taş, kağıt, makas veri seti ile eğittik.
+  
+      Veriseti : https://www.kaggle.com/drgfreeman/rockpaperscissors
+      
 * Nesne tespitini Keras RetinaNet(Omurga olarak ResNet50 kullanıldı) ile yaptık.
 
 

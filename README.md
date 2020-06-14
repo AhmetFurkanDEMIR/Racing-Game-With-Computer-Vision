@@ -9,7 +9,8 @@
 * El hareketleriyle oynayabileceğiniz yarış oyunu.
 * Modelimizi taş, kağıt, makas veri seti ile eğittik.
   
-      Veriseti : https://www.kaggle.com/drgfreeman/rockpaperscissors
+      Veriseti (Kaggle) : https://www.kaggle.com/ahmetfurkandemr/racing-game-with-computer-vision-datasets
+      Veriseti (Github) : https://github.com/AhmetFurkanDEMIR/Racing-Game-With-Computer-Vision-Datasets/blob/master/README.md
       
 * Nesne tespitini Keras RetinaNet(Omurga olarak ResNet50 kullanıldı) ile yaptık.
 

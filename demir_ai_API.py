@@ -56,7 +56,7 @@ if not os.path.isfile(os.path.join("model.h5")):
 
 	print("\n Model indiriliyor...")
 
-	file_url1 = "https://www.dropbox.com/s/mfufsbj30c2twd2/model.h5?dl=1"
+	file_url1 = "https://www.dropbox.com/s/gtdnxmnxv64wosl/model.h5?dl=1"
 	wget.download(file_url1)
 
 	os.system("cls" if os.name == "nt" else "clear")
